@@ -4,7 +4,7 @@
    }
 
 .img-header{
-background: url("/home/mario/Documents/ironhack/Exercises/Excercise1/lab-css-recipes-clone/starter-code/apple-pie-starter-code/images/apple-pie.jpg")0 0 no-repeat;
+background: url("../images/apple-pie.jpg")0 0 no-repeat;
 background-size: cover;
 height: 850px;
 position: relative;
